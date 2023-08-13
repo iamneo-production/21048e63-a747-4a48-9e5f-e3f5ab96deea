@@ -1,0 +1,15 @@
+server:
+  port: 8089
+
+spring:
+  datasource:
+    username: root
+    url: jdbc:mysql://localhost:3306/fixeddeposit
+    password: examly
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL57InnoDBDialect
+    hibernate:
+      ddl-auto: update
+      show-sql: true
+  application:
+    name: INTEREST-RATE-SERVICE

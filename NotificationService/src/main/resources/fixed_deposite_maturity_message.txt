@@ -1,0 +1,13 @@
+Hi! ,
+
+A Fixed Deposite has Matured. Please find the details below.
+
+Customer Name:
+FD Account Number:
+Deposit Amount:
+Deposite Date:
+Maturity Amount:
+Maturity Date: 
+
+     
+Thank you for Banking with us.
